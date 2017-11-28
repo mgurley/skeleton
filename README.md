@@ -1,0 +1,2 @@
+# skeleton
+Rails Application Skeleton
